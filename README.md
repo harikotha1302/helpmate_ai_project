@@ -69,7 +69,7 @@ the layers.
 
 ## 6. System Architecture
 
-![](./architecture.png)
+![](./system_architecture.png)
 
 ## 7. Prerequisites
 
