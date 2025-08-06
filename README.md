@@ -79,6 +79,6 @@ the layers.
 
 ## 8. Query Screenshots
 
-![first query](./queries-answer-1.png)
-![second query](./queries-answer-2.png)
-![third query](./queries-answer-3.png)
+![first query](./query-answer-1.png)
+![second query](./query-answer-2.png)
+![third query](./query-answer-3.png)
